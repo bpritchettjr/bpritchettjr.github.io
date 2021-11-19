@@ -1,3 +1,4 @@
+theme: jekyll-theme-slate
 **Note: Create Specific Documents for each project.**
 
 This Document includes the steps to run the scripts in a virtual ubuntu environment on a windows host operating system via VirtualBox.
